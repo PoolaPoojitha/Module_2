@@ -1,5 +1,5 @@
  # 6.C Program to print the string "KEYBOARD" n number of times.
-## DATE: 
+
 ## AIM:
 To write a C Program to print the string "KEYBOARD" n number of times.
 
